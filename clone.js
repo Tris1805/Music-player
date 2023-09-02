@@ -33,24 +33,24 @@ const  app = {
     SongMusis:[
         {
             "id": 1,
-            "name": "Cupid",
-            "singer": "FIFTY FIFTY",
-            "img":  "./assets/img/cupid.jpg",
-            "song": "./assets/songs/cupid.mp3"    
+            "name": "Tabun",
+            "singer": "YOASOBI",
+            "img":  "./assets/img/tabun.jpg",
+            "song": "./assets/songs/tabun.mp3"    
         },
         {
             "id": 2,
-            "name": "Flower",
+            "name": "To The Moon",
             "singer": "Jisoo",
-            "img":  "./assets/img/flower.jpg",
-            "song": "./assets/songs/flower.mp3"    
+            "img":  "./assets/img/TTM.jpg",
+            "song": "./assets/songs/ToTheMoon.mp3"    
         },
         {
             "id": 3,
-            "name": "Cánh đồng yêu thương",
-            "singer": "Trung Quân",
-            "img":  "./assets/img/cdyt.jpg",
-            "song": "./assets/songs/cdyt.mp3"    
+            "name": "Golden Hour",
+            "singer": "Fuji Kaze",
+            "img":  "./assets/img/Fuji.jpg",
+            "song": "./assets/songs/goldenhour.mp3"    
         },
         {
             "id": 4,
